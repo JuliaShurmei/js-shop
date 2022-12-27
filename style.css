@@ -75,12 +75,3 @@ header .shopping span{
 .active .container{
    transform: translateX(-200px);
 }
-.card h1{
-    color: #E8BC0E;
-    font-weight: 100;
-    margin: 0;
-    padding: 0 20px;
-    height: 80px;
-    display: flex;
-    align-items: center;
-}
