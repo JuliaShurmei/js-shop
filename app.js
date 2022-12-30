@@ -95,5 +95,5 @@ function reloadCard(){
         }
     })
     total.innerText = totalPrice.toLocaleString();
-    quantity.innerText = count;
+   
 }
